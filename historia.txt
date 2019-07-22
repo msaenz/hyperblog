@@ -3,3 +3,5 @@ este es el priner
 archivo
 
 para git clases de platzi
+
+En camara parece alto, pero en realidad no es tan alto.
