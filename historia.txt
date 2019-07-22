@@ -5,3 +5,5 @@ archivo
 para git clases de platzi
 
 En camara parece alto, pero en realidad no es tan alto.
+
+Empieza curso de Maestria
