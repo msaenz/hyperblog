@@ -2,4 +2,4 @@ este es el priner
 
 archivo
 
-pra git
+para git clases de platzi
